@@ -14,7 +14,7 @@
   <img align="center" alt="stylesheet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="stylesheet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="stylesheet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="stylesheet" height="30" width="40" src="https://github.com/user-attachments/assets/d17ecf04-4bac-4828-914b-90a565cf0304" />
+  <img align="center" alt="stylesheet" height="30" width="30" src="https://github.com/user-attachments/assets/d17ecf04-4bac-4828-914b-90a565cf0304" />
 
 </div>
   
