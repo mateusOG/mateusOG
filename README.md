@@ -11,7 +11,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=mateusOG&show_icons=true&locale=pt-br"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=mateusOG&show_icons=true&locale=pt-br&bg_color=4C2392" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mateusOG&show_icons=true&locale=pt-br&bg_color=4C2392&layout=compact" />
 </picture>
 </div>
   
