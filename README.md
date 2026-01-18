@@ -12,7 +12,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=mateusOG&show_icons=true&locale=pt-br&bg_color=4C2392" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&locale=pt-br&bg_color=4C2392&layout=pie" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&locale=pt-br&bg_color=4C2392" />
 </picture>
 </div>
   
