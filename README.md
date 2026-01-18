@@ -3,12 +3,12 @@
 <div align="center">
  <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mateusOG&show_icons=true&theme=dark&locale=pt-br&bg_color=puple"
+    srcset="https://github-readme-stats.vercel.app/api?username=mateusOG&show_icons=true&theme=dark&locale=pt-br&bg_color=#CCFFCC"
     media="(prefers-color-scheme: dark)
     
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mateusOG&show_icons=true&locale=pt-br&bg_color=puple"
+    srcset="https://github-readme-stats.vercel.app/api?username=mateusOG&show_icons=true&locale=pt-br&bg_color=#CCFFCC"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=mateusOG&show_icons=true" />
