@@ -3,7 +3,7 @@
 <div align="center">
  <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mateusOG&show_icons=true&theme=dark&bg_color=COLOR1"
+    srcset="https://github-readme-stats.vercel.app/api?username=mateusOG&show_icons=true&theme=dark?bg_color=COLOR1"
     media="(prefers-color-scheme: dark)
     
   />
