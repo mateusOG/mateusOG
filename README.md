@@ -15,7 +15,7 @@
   <img align="center" alt="stylesheet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="stylesheet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="stylesheet" height="30" width="30" src="https://github.com/user-attachments/assets/d17ecf04-4bac-4828-914b-90a565cf0304" />
-  <img margenleft="2" align="center" alt="stylesheet" height="30" width="30" src="https://github.com/user-attachments/assets/e1943c37-c36f-44f5-8fe6-80ebf41e78ab" />
+  <img margin-left="2" align="center" alt="stylesheet" height="30" width="30" src="https://github.com/user-attachments/assets/e1943c37-c36f-44f5-8fe6-80ebf41e78ab" />
   <img margenleft="2" align="center" alt="stylesheet" height="30" width="30" src="https://github.com/user-attachments/assets/e6441e1e-ebad-4696-9028-c31cb1f86f14" />
 
 
