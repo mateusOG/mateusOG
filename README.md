@@ -11,8 +11,8 @@
     srcset="https://github-readme-stats.vercel.app/api?username=mateusOG&show_icons=true&locale=pt-br"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=mateusOG&show_icons=true&locale=pt-br&bg_color=4C2392&text_color=D57900" />
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&locale=pt-br&bg_color=4C2392&text_color=D57900" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=mateusOG&show_icons=true&locale=pt-br&bg_color=4C2392&text_color=D57900&include_all_commits" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&locale=pt-br&bg_color=4C2392&text_color=D57900&include_all_commits" />
 </picture>
 </div>
   
