@@ -4,8 +4,8 @@
  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=mateusOG&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-    locate="pt-br"
+    media="(prefers-color-scheme: dark),(locate: pt-br)"
+    
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=mateusOG&show_icons=true"
