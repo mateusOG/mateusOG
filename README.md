@@ -12,7 +12,8 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=mateusOG&show_icons=true&locale=pt-br&bg_color=4C2392&text_color=D57900&commits_year=2024,2025,2026,2023" />
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&locale=pt-br&bg_color=4C2392&text_color=D57900" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&locale=pt-br&bg_color=4C2392&text_color=D57900&commits_year=2024,2025,2026,2023" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" /> 
 </picture>
 </div>
   
