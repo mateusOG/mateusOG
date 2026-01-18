@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/juggerino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juggerino&show_icons=true&theme=dracula&title_color=CE7B64&text_color=CE7B64&icon_color=000000&border_color=&bg_color=5584A4&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juggerino&layout=compact&title_color=BD795B&text_color=BD795B&icon_color=000000&border_color=&bg_color=5584A4&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusOG_icons=true&theme=dracula&title_color=CE7B64&text_color=CE7B64&icon_color=000000&border_color=&bg_color=5584A4&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusOG&layout=compact&title_color=BD795B&text_color=BD795B&icon_color=000000&border_color=&bg_color=5584A4&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -15,7 +15,7 @@
   <img align="center" alt="stylesheet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="stylesheet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="stylesheet" height="30" width="30" src="https://github.com/user-attachments/assets/d17ecf04-4bac-4828-914b-90a565cf0304" />
-  <img  style="margin-right: 100px" align="center" alt="stylesheet" height="30" width="30" src="https://github.com/user-attachments/assets/e1943c37-c36f-44f5-8fe6-80ebf41e78ab" />
+  <img align="center" alt="stylesheet" height="30" width="30" src="https://github.com/user-attachments/assets/e1943c37-c36f-44f5-8fe6-80ebf41e78ab" />
   <img align="center" alt="stylesheet" height="30" width="30" src="https://github.com/user-attachments/assets/9d809eb2-4323-4d97-ab6f-6e13f8ee895f" />
 
 
