@@ -4,8 +4,8 @@
     height="110"
   />
   <img
-    height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusOG&layout=compact&locale=pt-br&bg_color=4C2392&text_color=D57900"
-   
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusOG&layout=compact&locale=pt-br&bg_color=4C2392&text_color=D57900"
+    height="110" 
   />
 </div>
 <div align="center">
